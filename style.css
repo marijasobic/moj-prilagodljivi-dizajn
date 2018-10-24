@@ -8,6 +8,10 @@ body {
     margin: 0;
 }
 
+a:visited {
+    color: aqua;
+}
+
 nav a {
     background: #501a1a;
     color: #fff;
@@ -70,4 +74,5 @@ nav a {
         flex-direction: row;
         justify-content: space-evenly;
     }
+}
 }
